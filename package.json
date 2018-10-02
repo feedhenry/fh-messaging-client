@@ -16,7 +16,7 @@
     "url": "https://github.com/fheng/fh-messaging-client/issues"
   },
   "dependencies": {
-    "request": "^2.78.0",
+    "request": "2.88.0",
     "underscore": "1.8.0"
   },
   "devDependencies": {
