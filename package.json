@@ -1,6 +1,6 @@
 {
   "name": "fh-messaging-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "client for calling fh-messaging",
   "main": "index.js",
   "scripts": {
